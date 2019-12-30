@@ -2,7 +2,7 @@
     <sys_sg_data_item action="INSERT_OR_UPDATE">
         <condition_type>declarative</condition_type>
         <description/>
-        <group_by/>
+        <group_by>city</group_by>
         <name>PDI_City</name>
         <query_condition table="core_company">cityISNOTEMPTY^country={{p_Country}}<item endquery="false" field="city" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
             <item endquery="false" field="country" goto="false" newquery="false" operator="=" or="false" value="{{p_Country}}"/>
@@ -12,14 +12,14 @@
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2019-12-30 17:24:28</sys_created_on>
         <sys_id>10bd70ed1b060010901efc88cc4bcb0c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>PDI_City</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
         <sys_update_name>sys_sg_data_item_10bd70ed1b060010901efc88cc4bcb0c</sys_update_name>
         <sys_updated_by>Jens.Gerber</sys_updated_by>
-        <sys_updated_on>2019-12-30 19:01:53</sys_updated_on>
+        <sys_updated_on>2019-12-30 19:56:59</sys_updated_on>
         <table>core_company</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=10bd70ed1b060010901efc88cc4bcb0c"/>
