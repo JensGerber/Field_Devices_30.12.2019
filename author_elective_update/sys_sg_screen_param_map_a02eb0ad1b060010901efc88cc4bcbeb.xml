@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="DELETE">
+        <item_parameter display_value="p_Country">2c7d34ed1b060010901efc88cc4bcb09</item_parameter>
+        <screen display_value="Companys">25ec3c6d1b060010901efc88cc4bcb66</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:26:23</sys_created_on>
+        <sys_id>a02eb0ad1b060010901efc88cc4bcbeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2c7d34ed1b060010901efc88cc4bcb09</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_a02eb0ad1b060010901efc88cc4bcbeb</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:26:23</sys_updated_on>
+        <ui_parameter display_value="UI_Country">f50e70ed1b060010901efc88cc4bcb0f</ui_parameter>
+    </sys_sg_screen_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_sg_screen_param_map_a02eb0ad1b060010901efc88cc4bcbeb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map"><sys_sg_screen_param_map action="INSERT_OR_UPDATE"><item_parameter display_value="p_Country">2c7d34ed1b060010901efc88cc4bcb09</item_parameter><screen display_value="Companys">25ec3c6d1b060010901efc88cc4bcb66</screen><sys_class_name>sys_sg_screen_param_map</sys_class_name><sys_created_by>Jens.Gerber</sys_created_by><sys_created_on>2019-12-30 17:26:23</sys_created_on><sys_id>a02eb0ad1b060010901efc88cc4bcbeb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2c7d34ed1b060010901efc88cc4bcb09</sys_name><sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package><sys_policy/><sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope><sys_update_name>sys_sg_screen_param_map_a02eb0ad1b060010901efc88cc4bcbeb</sys_update_name><sys_updated_by>Jens.Gerber</sys_updated_by><sys_updated_on>2019-12-30 17:26:23</sys_updated_on><ui_parameter display_value="UI_Country">f50e70ed1b060010901efc88cc4bcb0f</ui_parameter></sys_sg_screen_param_map></record_update>]]></payload>
+        <payload_hash>-234326681</payload_hash>
+        <record_name>2c7d34ed1b060010901efc88cc4bcb09</record_name>
+        <reverted_from/>
+        <source>3d0c3c2d1b060010901efc88cc4bcba6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:26:23</sys_created_on>
+        <sys_id>e42eb0ad1b060010901efc88cc4bcbed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f57d831630000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:26:23</sys_updated_on>
+        <type>Screen parameters mapping</type>
+        <update_guid>202eb0add0060010f636c75ac8bf66ed</update_guid>
+        <update_guid_history>202eb0add0060010f636c75ac8bf66ed:-234326681</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 18:15:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_param_map">sys_sg_screen_param_map</sys_db_object>
+        <sys_id>2300eb2803ef4b999ad4a5e4551df401</sys_id>
+        <sys_metadata>a02eb0ad1b060010901efc88cc4bcbeb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2c7d34ed1b060010901efc88cc4bcb09</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_param_map_a02eb0ad1b060010901efc88cc4bcbeb</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_param_map_a02eb0ad1b060010901efc88cc4bcbeb">e42eb0ad1b060010901efc88cc4bcbed</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 18:15:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

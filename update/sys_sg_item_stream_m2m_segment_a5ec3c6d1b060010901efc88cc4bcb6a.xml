@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Company Item Stream">a9ec3c6d1b060010901efc88cc4bcb69</item_stream>
+        <segment display_value="Company Item Stream Segment">2dec3c6d1b060010901efc88cc4bcb68</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:00</sys_created_on>
+        <sys_id>a5ec3c6d1b060010901efc88cc4bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_a5ec3c6d1b060010901efc88cc4bcb6a</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:00</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

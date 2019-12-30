@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>apple_icon</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">61ec3c6d1b060010901efc88cc4bcb68</screen>
+        <screen_data_item_table>core_company</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:00</sys_created_on>
+        <sys_id>79ec3c6d1b060010901efc88cc4bcbb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>apple_icon</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_screen_field_79ec3c6d1b060010901efc88cc4bcbb5</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:00</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=79ec3c6d1b060010901efc88cc4bcbb5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_sg_screen_field_79ec3c6d1b060010901efc88cc4bcbb5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>apple_icon</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>10</order><record_id_field/><screen display_value="Details">61ec3c6d1b060010901efc88cc4bcb68</screen><screen_data_item_table>core_company</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>Jens.Gerber</sys_created_by><sys_created_on>2019-12-30 17:21:00</sys_created_on><sys_id>79ec3c6d1b060010901efc88cc4bcbb5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>apple_icon</sys_name><sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package><sys_policy/><sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope><sys_update_name>sys_sg_screen_field_79ec3c6d1b060010901efc88cc4bcbb5</sys_update_name><sys_updated_by>Jens.Gerber</sys_updated_by><sys_updated_on>2019-12-30 17:21:00</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=79ec3c6d1b060010901efc88cc4bcbb5"/></record_update>]]></payload>
+        <payload_hash>-1237701230</payload_hash>
+        <record_name>apple_icon</record_name>
+        <reverted_from/>
+        <source>3d0c3c2d1b060010901efc88cc4bcba6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:04</sys_created_on>
+        <sys_id>7eecfc6d1b060010901efc88cc4bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f57d352710000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:04</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>f6ecfc6d6b060010b9b7b358ddde446f</update_guid>
+        <update_guid_history>f6ecfc6d6b060010b9b7b358ddde446f:-1237701230</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 19:22:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>184ce2eff1c34b6d81f398f1d6300651</sys_id>
+        <sys_metadata>79ec3c6d1b060010901efc88cc4bcbb5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>apple_icon</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_79ec3c6d1b060010901efc88cc4bcbb5</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_79ec3c6d1b060010901efc88cc4bcbb5">7eecfc6d1b060010901efc88cc4bcb6f</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 19:22:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

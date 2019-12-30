@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item/>
+        <interleaved_field/>
+        <name>u_alm_asset Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:01</sys_created_on>
+        <sys_id>31ec7c6d1b060010901efc88cc4bcb0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_alm_asset Item Stream</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_item_stream_31ec7c6d1b060010901efc88cc4bcb0d</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:01</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

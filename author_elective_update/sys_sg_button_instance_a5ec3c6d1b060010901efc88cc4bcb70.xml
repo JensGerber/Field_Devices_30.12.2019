@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Company)">25ec3c6d1b060010901efc88cc4bcb6e</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Company)</name>
+        <order/>
+        <parent>61ec3c6d1b060010901efc88cc4bcb6b</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:00</sys_created_on>
+        <sys_id>a5ec3c6d1b060010901efc88cc4bcb70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Company)</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_button_instance_a5ec3c6d1b060010901efc88cc4bcb70</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:00</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a5ec3c6d1b060010901efc88cc4bcb70"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_sg_button_instance_a5ec3c6d1b060010901efc88cc4bcb70</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Delete Swipe (Company)">25ec3c6d1b060010901efc88cc4bcb6e</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Delete</label><location>leading_swipe</location><name>Delete (Company)</name><order/><parent>61ec3c6d1b060010901efc88cc4bcb6b</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>Jens.Gerber</sys_created_by><sys_created_on>2019-12-30 17:21:00</sys_created_on><sys_id>a5ec3c6d1b060010901efc88cc4bcb70</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete (Company)</sys_name><sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package><sys_policy/><sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope><sys_update_name>sys_sg_button_instance_a5ec3c6d1b060010901efc88cc4bcb70</sys_update_name><sys_updated_by>Jens.Gerber</sys_updated_by><sys_updated_on>2019-12-30 17:21:00</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=a5ec3c6d1b060010901efc88cc4bcb70"/></record_update>]]></payload>
+        <payload_hash>1422395014</payload_hash>
+        <record_name>Delete (Company)</record_name>
+        <reverted_from/>
+        <source>3d0c3c2d1b060010901efc88cc4bcba6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:04</sys_created_on>
+        <sys_id>26ecfc6d1b060010901efc88cc4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f57d3517e0000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:04</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>aeecfc6d77060010bcdc6bb600241353</update_guid>
+        <update_guid_history>aeecfc6d77060010bcdc6bb600241353:1422395014</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 18:24:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>48b6f98b69e84a9fa47ae6acef290529</sys_id>
+        <sys_metadata>a5ec3c6d1b060010901efc88cc4bcb70</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Company)</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_a5ec3c6d1b060010901efc88cc4bcb70</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_a5ec3c6d1b060010901efc88cc4bcb70">26ecfc6d1b060010901efc88cc4bcb54</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 18:24:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

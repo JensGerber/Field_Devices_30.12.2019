@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New Button (u_alm_asset)">b5ec7c6d1b060010901efc88cc4bcb18</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (u_alm_asset)</name>
+        <order/>
+        <parent>71ec7c6d1b060010901efc88cc4bcb0b</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:01</sys_created_on>
+        <sys_id>bdec7c6d1b060010901efc88cc4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (u_alm_asset)</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_button_instance_bdec7c6d1b060010901efc88cc4bcb27</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:01</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=bdec7c6d1b060010901efc88cc4bcb27"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_sg_button_instance_bdec7c6d1b060010901efc88cc4bcb27</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New Button (u_alm_asset)">b5ec7c6d1b060010901efc88cc4bcb18</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>New</label><location>top</location><name>New (u_alm_asset)</name><order/><parent>71ec7c6d1b060010901efc88cc4bcb0b</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>Jens.Gerber</sys_created_by><sys_created_on>2019-12-30 17:21:01</sys_created_on><sys_id>bdec7c6d1b060010901efc88cc4bcb27</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New (u_alm_asset)</sys_name><sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package><sys_policy/><sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope><sys_update_name>sys_sg_button_instance_bdec7c6d1b060010901efc88cc4bcb27</sys_update_name><sys_updated_by>Jens.Gerber</sys_updated_by><sys_updated_on>2019-12-30 17:21:01</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=bdec7c6d1b060010901efc88cc4bcb27"/></record_update>]]></payload>
+        <payload_hash>153505781</payload_hash>
+        <record_name>New (u_alm_asset)</record_name>
+        <reverted_from/>
+        <source>3d0c3c2d1b060010901efc88cc4bcba6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:06</sys_created_on>
+        <sys_id>07ec30ad1b060010901efc88cc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f57d358800000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:06</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>8fec30adca0600102550bb604d12d6b0</update_guid>
+        <update_guid_history>8fec30adca0600102550bb604d12d6b0:153505781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 19:07:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>03d7b3c7129443e19e963d52f169c609</sys_id>
+        <sys_metadata>bdec7c6d1b060010901efc88cc4bcb27</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (u_alm_asset)</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_bdec7c6d1b060010901efc88cc4bcb27</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_bdec7c6d1b060010901efc88cc4bcb27">07ec30ad1b060010901efc88cc4bcbb1</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 19:07:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

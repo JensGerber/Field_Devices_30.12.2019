@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (u_alm_asset)">b5ec7c6d1b060010901efc88cc4bcb18</button>
+        <item_parameter display_value="u_alm_asset checked_out">7dec7c6d1b060010901efc88cc4bcb14</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:01</sys_created_on>
+        <sys_id>b5ec7c6d1b060010901efc88cc4bcb23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7dec7c6d1b060010901efc88cc4bcb14</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b5ec7c6d1b060010901efc88cc4bcb23</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:01</sys_updated_on>
+        <ui_parameter display_value="Checked out">bdec7c6d1b060010901efc88cc4bcb1c</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

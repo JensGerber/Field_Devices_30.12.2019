@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>market_cap</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>160</order>
+        <record_id_field/>
+        <screen display_value="Details">61ec3c6d1b060010901efc88cc4bcb68</screen>
+        <screen_data_item_table>core_company</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:00</sys_created_on>
+        <sys_id>f9ec3c6d1b060010901efc88cc4bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>market_cap</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_screen_field_f9ec3c6d1b060010901efc88cc4bcbbc</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:00</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=f9ec3c6d1b060010901efc88cc4bcbbc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_sg_screen_field_f9ec3c6d1b060010901efc88cc4bcbbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>market_cap</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>160</order><record_id_field/><screen display_value="Details">61ec3c6d1b060010901efc88cc4bcb68</screen><screen_data_item_table>core_company</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>Jens.Gerber</sys_created_by><sys_created_on>2019-12-30 17:21:00</sys_created_on><sys_id>f9ec3c6d1b060010901efc88cc4bcbbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>market_cap</sys_name><sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package><sys_policy/><sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope><sys_update_name>sys_sg_screen_field_f9ec3c6d1b060010901efc88cc4bcbbc</sys_update_name><sys_updated_by>Jens.Gerber</sys_updated_by><sys_updated_on>2019-12-30 17:21:00</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=f9ec3c6d1b060010901efc88cc4bcbbc"/></record_update>]]></payload>
+        <payload_hash>-1266289592</payload_hash>
+        <record_name>market_cap</record_name>
+        <reverted_from/>
+        <source>3d0c3c2d1b060010901efc88cc4bcba6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:04</sys_created_on>
+        <sys_id>feecfc6d1b060010901efc88cc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f57d353570000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:04</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>7aecfc6d5b0600109ef7d188a817dca6</update_guid>
+        <update_guid_history>7aecfc6d5b0600109ef7d188a817dca6:-1266289592</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 19:22:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>0072039dd7504df2a1734384f28892a4</sys_id>
+        <sys_metadata>f9ec3c6d1b060010901efc88cc4bcbbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>market_cap</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_f9ec3c6d1b060010901efc88cc4bcbbc</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_f9ec3c6d1b060010901efc88cc4bcbbc">feecfc6d1b060010901efc88cc4bcba6</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 19:22:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

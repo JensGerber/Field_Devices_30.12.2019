@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home Field Devices Mobile</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:20:59</sys_created_on>
+        <sys_id>25ec3c6d1b060010901efc88cc4bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Field Devices Mobile</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_icon_25ec3c6d1b060010901efc88cc4bcb62</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:20:59</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>
