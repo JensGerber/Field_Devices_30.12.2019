@@ -6,23 +6,23 @@
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
-        <icon display_value="Func. Location Icon">2dfe59a11bc60010901efc88cc4bcbd1</icon>
-        <item_view display_value="Func. Location Header Item View">edfe59a11bc60010901efc88cc4bcbd3</item_view>
-        <name>Func. Location</name>
+        <icon display_value="Field Devices Icon">b108f1ee1b8a0010901efc88cc4bcb69</icon>
+        <item_view display_value="Field Devices Header Item View">3508f1ee1b8a0010901efc88cc4bcb6b</item_view>
+        <name>Field Devices</name>
         <roles_override/>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>Jens.Gerber</sys_created_by>
-        <sys_created_on>2019-12-30 19:49:49</sys_created_on>
-        <sys_id>a1fe59a11bc60010901efc88cc4bcbd6</sys_id>
-        <sys_mod_count>14</sys_mod_count>
-        <sys_name>Func. Location</sys_name>
+        <sys_created_on>2020-01-03 00:13:15</sys_created_on>
+        <sys_id>b508f1ee1b8a0010901efc88cc4bcb6d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Field Devices</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
-        <sys_update_name>sys_sg_form_screen_a1fe59a11bc60010901efc88cc4bcbd6</sys_update_name>
+        <sys_update_name>sys_sg_form_screen_b508f1ee1b8a0010901efc88cc4bcb6d</sys_update_name>
         <sys_updated_by>Jens.Gerber</sys_updated_by>
-        <sys_updated_on>2020-01-03 11:29:51</sys_updated_on>
-        <table>core_company</table>
+        <sys_updated_on>2020-01-03 11:11:58</sys_updated_on>
+        <table>x_417837_field_dev_u_alm_asset</table>
     </sys_sg_form_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=a1fe59a11bc60010901efc88cc4bcbd6"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=b508f1ee1b8a0010901efc88cc4bcb6d"/>
 </record_update>

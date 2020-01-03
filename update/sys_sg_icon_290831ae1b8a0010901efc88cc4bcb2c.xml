@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e93a","Name":"icon-Wrench","FontColor":"#E65651","BackgroundColor":"#E65651"}</icon>
+        <name>icon-Wrench</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-03 00:13:15</sys_created_on>
+        <sys_id>290831ae1b8a0010901efc88cc4bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Wrench</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_icon_290831ae1b8a0010901efc88cc4bcb2c</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-03 00:13:15</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

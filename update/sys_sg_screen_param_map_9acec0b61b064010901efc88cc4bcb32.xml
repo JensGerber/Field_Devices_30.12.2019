@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="sys_id">608c8cf21b064010901efc88cc4bcbcc</item_parameter>
+        <screen display_value="Field Devices">b50831ae1b8a0010901efc88cc4bcb32</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-03 11:11:55</sys_created_on>
+        <sys_id>9acec0b61b064010901efc88cc4bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>608c8cf21b064010901efc88cc4bcbcc</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_9acec0b61b064010901efc88cc4bcb32</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-03 11:11:55</sys_updated_on>
+        <ui_parameter display_value="UI_sys_id">05bec8f21b064010901efc88cc4bcb51</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>
