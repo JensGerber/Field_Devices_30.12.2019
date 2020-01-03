@@ -48,14 +48,14 @@
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2020-01-03 11:15:42</sys_created_on>
         <sys_id>21af80f61b064010901efc88cc4bcbbb</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>jump to Assets</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
         <sys_update_name>sys_sg_button_21af80f61b064010901efc88cc4bcbbb</sys_update_name>
         <sys_updated_by>Jens.Gerber</sys_updated_by>
-        <sys_updated_on>2020-01-03 11:21:54</sys_updated_on>
+        <sys_updated_on>2020-01-03 11:51:54</sys_updated_on>
         <table>x_417837_field_dev_u_alm_asset</table>
         <take_value_from_field>true</take_value_from_field>
         <type>redirection</type>
