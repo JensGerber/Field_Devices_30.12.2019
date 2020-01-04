@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
     <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
-        <button display_value="jump to Assets">21af80f61b064010901efc88cc4bcbbb</button>
+        <button display_value="jump to Asset">53de97b21b828010901efc88cc4bcb6b</button>
         <button_table>x_417837_field_dev_u_alm_asset</button_table>
         <constant_value/>
         <destination_ui_parameter display_value="UI_Company">8fa7d0321b464010901efc88cc4bcb8f</destination_ui_parameter>
-        <source_field>company</source_field>
+        <source_field/>
         <source_ui_parameter/>
         <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
         <sys_created_by>Jens.Gerber</sys_created_by>
-        <sys_created_on>2020-01-03 11:51:31</sys_created_on>
-        <sys_id>1ad754321b464010901efc88cc4bcbc6</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2020-01-04 02:21:03</sys_created_on>
+        <sys_id>e3de97b21b828010901efc88cc4bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>8fa7d0321b464010901efc88cc4bcb8f</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
-        <sys_update_name>sys_sg_redirect_dest_field_1ad754321b464010901efc88cc4bcbc6</sys_update_name>
+        <sys_update_name>sys_sg_redirect_dest_field_e3de97b21b828010901efc88cc4bcb6e</sys_update_name>
         <sys_updated_by>Jens.Gerber</sys_updated_by>
-        <sys_updated_on>2020-01-03 11:51:47</sys_updated_on>
+        <sys_updated_on>2020-01-04 02:21:03</sys_updated_on>
         <type>field</type>
     </sys_sg_redirect_dest_field>
 </record_update>
