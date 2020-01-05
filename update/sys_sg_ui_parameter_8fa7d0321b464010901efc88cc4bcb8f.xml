@@ -16,7 +16,7 @@
         <order>10</order>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="Field Devices">b50831ae1b8a0010901efc88cc4bcb32</screen>
+        <screen/>
         <search_type>starts_with</search_type>
         <source_field/>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order>-1</condition_order>
+        <datasource_table>u_alm_asset_sb</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Field Devices">d62ac42f1b864010901efc88cc4bcb1b</embedded_screen>
+        <item_view display_value="Field Devices Item View">5e2ac42f1b864010901efc88cc4bcb0f</item_view>
+        <name>Field Devices Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-05 18:47:10</sys_created_on>
+        <sys_id>5e2ac42f1b864010901efc88cc4bcb23</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Field Devices Master Item</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_master_item_5e2ac42f1b864010901efc88cc4bcb23</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-05 18:47:24</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

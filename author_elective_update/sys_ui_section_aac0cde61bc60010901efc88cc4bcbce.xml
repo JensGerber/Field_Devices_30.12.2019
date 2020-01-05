@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Contracts" section_id="aac0cde61bc60010901efc88cc4bcbce" sys_domain="global" table="x_417837_field_dev_u_alm_asset" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>2ac0cde61bc60010901efc88cc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lease_id</element>
+            <position>1</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>aac0cde61bc60010901efc88cc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_expiration</element>
+            <position>2</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>2ec0cde61bc60010901efc88cc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>aec0cde61bc60010901efc88cc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_group</element>
+            <position>4</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>22c0cde61bc60010901efc88cc4bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supported_by</element>
+            <position>5</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>a2c0cde61bc60010901efc88cc4bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>26c0cde61bc60010901efc88cc4bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.alm_asset.clm_m2m_contract_asset.asset</element>
+            <position>7</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>a6c0cde61bc60010901efc88cc4bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Contracts</caption>
+            <header>false</header>
+            <name>x_417837_field_dev_u_alm_asset</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aac0cde61bc60010901efc88cc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Contracts</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+            <sys_update_name>sys_ui_section_aac0cde61bc60010901efc88cc4bcbce</sys_update_name>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_ui_section_aac0cde61bc60010901efc88cc4bcbce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Contracts" section_id="aac0cde61bc60010901efc88cc4bcbce" sys_domain="global" table="x_417837_field_dev_u_alm_asset" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>2ac0cde61bc60010901efc88cc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lease_id</element>
+            <position>1</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>aac0cde61bc60010901efc88cc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_expiration</element>
+            <position>2</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>2ec0cde61bc60010901efc88cc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>aec0cde61bc60010901efc88cc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_group</element>
+            <position>4</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>22c0cde61bc60010901efc88cc4bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supported_by</element>
+            <position>5</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>a2c0cde61bc60010901efc88cc4bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>26c0cde61bc60010901efc88cc4bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.alm_asset.clm_m2m_contract_asset.asset</element>
+            <position>7</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_id>a6c0cde61bc60010901efc88cc4bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Contracts</caption>
+            <header>false</header>
+            <name>x_417837_field_dev_u_alm_asset</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aac0cde61bc60010901efc88cc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Contracts</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+            <sys_update_name>sys_ui_section_aac0cde61bc60010901efc88cc4bcbce</sys_update_name>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>-1042050742</payload_hash>
+        <record_name>u_alm_asset</record_name>
+        <reverted_from/>
+        <source>e0cd9bbe1b428010901efc88cc4bcb0f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-04 02:16:22</sys_created_on>
+        <sys_id>c7cd9fbe1b428010901efc88cc4bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f6e56d89a0000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-04 02:16:22</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>47cd9fbe10428010f42840062ee0cffe</update_guid>
+        <update_guid_history>47cd9fbe10428010f42840062ee0cffe:0,609d9b7e8f4280106617caff0c823a9f:-574670544,584a17f6364280106ce44fe5d2714729:0,752ad7b632428010c41369d6fbc52b34:-574670544,6ec0cde601c6001008de959d2ceb7bd1:1741574080</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-05 17:31:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>019c183d894a4b1e820976d49dadeb04</sys_id>
+        <sys_metadata>aac0cde61bc60010901efc88cc4bcbce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contracts</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent display_value="">33bc386d1b060010901efc88cc4bcb6c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_ui_section_aac0cde61bc60010901efc88cc4bcbce</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_aac0cde61bc60010901efc88cc4bcbce">c7cd9fbe1b428010901efc88cc4bcbfe</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-05 17:31:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

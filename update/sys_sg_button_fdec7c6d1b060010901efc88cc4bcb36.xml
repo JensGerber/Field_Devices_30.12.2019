@@ -60,7 +60,7 @@
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Edit (u_alm_asset)">fdec7c6d1b060010901efc88cc4bcb2e</write_back_action_item>
+        <write_back_action_item display_value="">fdec7c6d1b060010901efc88cc4bcb2e</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
     <sys_translated_text action="delete_multiple" query="documentkey=fdec7c6d1b060010901efc88cc4bcb36"/>

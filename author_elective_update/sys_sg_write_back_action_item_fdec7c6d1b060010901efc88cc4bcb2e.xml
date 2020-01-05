@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description/>
+        <execution_script/>
+        <name>Edit (u_alm_asset)</name>
+        <query_condition table="x_417837_field_dev_u_alm_asset">sys_idSTARTSWITH{{u_alm_asset sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{u_alm_asset sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:01</sys_created_on>
+        <sys_id>fdec7c6d1b060010901efc88cc4bcb2e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (u_alm_asset)</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_fdec7c6d1b060010901efc88cc4bcb2e</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:01</sys_updated_on>
+        <table>x_417837_field_dev_u_alm_asset</table>
+        <template>account={{u_alm_asset account}}^acquisition_method={{u_alm_asset acquisition_method}}^active_to={{u_alm_asset active_to}}^asset_tag={{u_alm_asset asset_tag}}^assigned={{u_alm_asset assigned}}^assigned_to={{u_alm_asset assigned_to}}^beneficiary={{u_alm_asset beneficiary}}^checked_in={{u_alm_asset checked_in}}^checked_out={{u_alm_asset checked_out}}^ci={{u_alm_asset ci}}^comments={{u_alm_asset comments}}^company={{u_alm_asset company}}^consumer={{u_alm_asset consumer}}^cost={{u_alm_asset cost}}^cost_center={{u_alm_asset cost_center}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=fdec7c6d1b060010901efc88cc4bcb2e"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_sg_write_back_action_item_fdec7c6d1b060010901efc88cc4bcb2e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (u_alm_asset)</name>
+        <query_condition table="x_417837_field_dev_u_alm_asset">sys_idSTARTSWITH{{u_alm_asset sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{u_alm_asset sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:21:01</sys_created_on>
+        <sys_id>fdec7c6d1b060010901efc88cc4bcb2e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (u_alm_asset)</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_fdec7c6d1b060010901efc88cc4bcb2e</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:21:01</sys_updated_on>
+        <table>x_417837_field_dev_u_alm_asset</table>
+        <template>account={{u_alm_asset account}}^acquisition_method={{u_alm_asset acquisition_method}}^active_to={{u_alm_asset active_to}}^asset_tag={{u_alm_asset asset_tag}}^assigned={{u_alm_asset assigned}}^assigned_to={{u_alm_asset assigned_to}}^beneficiary={{u_alm_asset beneficiary}}^checked_in={{u_alm_asset checked_in}}^checked_out={{u_alm_asset checked_out}}^ci={{u_alm_asset ci}}^comments={{u_alm_asset comments}}^company={{u_alm_asset company}}^consumer={{u_alm_asset consumer}}^cost={{u_alm_asset cost}}^cost_center={{u_alm_asset cost_center}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=fdec7c6d1b060010901efc88cc4bcb2e"/>
+</record_update>]]></payload>
+        <payload_hash>-1240694912</payload_hash>
+        <record_name>Edit (u_alm_asset)</record_name>
+        <reverted_from/>
+        <source>e0cd9bbe1b428010901efc88cc4bcb0f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-04 02:16:22</sys_created_on>
+        <sys_id>0bcd9fbe1b428010901efc88cc4bcbe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f6e56d7770000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-04 02:16:22</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>87cd9fbe8c428010d48fc2b38cc438e4</update_guid>
+        <update_guid_history>87cd9fbe8c428010d48fc2b38cc438e4:0,9a9ec3ba520280102a998b2f98702d7c:997648449,144a17f6824280104fedc9ed88521f0f:0,9a9ec3ba520280102a998b2f98702d7c:997648449,feecfc6d6c060010e9ce2d3289e73ff2:1314008174</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-05 17:31:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>bcb54ef6c690422c9552c19150e00490</sys_id>
+        <sys_metadata>fdec7c6d1b060010901efc88cc4bcb2e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (u_alm_asset)</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_fdec7c6d1b060010901efc88cc4bcb2e</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_fdec7c6d1b060010901efc88cc4bcb2e">0bcd9fbe1b428010901efc88cc4bcbe4</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-05 17:31:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

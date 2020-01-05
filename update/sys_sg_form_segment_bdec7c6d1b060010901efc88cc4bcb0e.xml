@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">71ec7c6d1b060010901efc88cc4bcb0c</embedded_screen>
-        <form display_value="u_alm_asset Form Screen">79ec7c6d1b060010901efc88cc4bcb0b</form>
+        <form/>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>Jens.Gerber</sys_created_by>

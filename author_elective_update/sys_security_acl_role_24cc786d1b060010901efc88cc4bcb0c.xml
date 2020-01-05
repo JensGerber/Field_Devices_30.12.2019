@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:20:22</sys_created_on>
+        <sys_id>24cc786d1b060010901efc88cc4bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_417837_field_dev_u_alm_asset.user</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_security_acl display_value="x_417837_field_dev_u_alm_asset">54cc786d1b060010901efc88cc4bcb08</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_24cc786d1b060010901efc88cc4bcb0c</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:20:22</sys_updated_on>
+        <sys_user_role display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_security_acl_role_24cc786d1b060010901efc88cc4bcb0c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-12-30 17:20:22</sys_created_on>
+        <sys_id>24cc786d1b060010901efc88cc4bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_417837_field_dev_u_alm_asset.user</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_security_acl display_value="x_417837_field_dev_u_alm_asset">54cc786d1b060010901efc88cc4bcb08</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_24cc786d1b060010901efc88cc4bcb0c</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-12-30 17:20:22</sys_updated_on>
+        <sys_user_role display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>10363981</payload_hash>
+        <record_name>x_417837_field_dev_u_alm_asset.user</record_name>
+        <reverted_from/>
+        <source>e0cd9bbe1b428010901efc88cc4bcb0f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-04 02:16:15</sys_created_on>
+        <sys_id>95cddbbe1b428010901efc88cc4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f6e56bd3a0000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-04 02:16:15</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>15cddbbe0542801009e6d40cbdd4ca27</update_guid>
+        <update_guid_history>15cddbbe0542801009e6d40cbdd4ca27:0,509d9b7ee84280107fc2bffa4596eb02:1355056278,263a13f695428010e7c59479f534a031:0,652a97b636428010a17afe7a6b7defb0:1244513963,a8cc786d110600102cf23bcff24d9d0f:-267989405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_417837_field_dev_u_alm_asset.user">70c8fb5b1b464010901efc88cc4bcb4c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-05 17:31:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>263404bc67d9464888a12bf21bf33a44</sys_id>
+        <sys_metadata>24cc786d1b060010901efc88cc4bcb0c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_417837_field_dev_u_alm_asset.user</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent display_value="">54cc786d1b060010901efc88cc4bcb08</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_24cc786d1b060010901efc88cc4bcb0c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_24cc786d1b060010901efc88cc4bcb0c">95cddbbe1b428010901efc88cc4bcb27</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-05 17:31:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

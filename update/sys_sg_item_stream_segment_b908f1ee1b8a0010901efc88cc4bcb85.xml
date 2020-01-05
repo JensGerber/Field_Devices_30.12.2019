@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="Field Devices">b50831ae1b8a0010901efc88cc4bcb32</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2020-01-03 00:13:16</sys_created_on>

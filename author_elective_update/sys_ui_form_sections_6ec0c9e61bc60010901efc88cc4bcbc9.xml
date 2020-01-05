@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="6ec0c9e61bc60010901efc88cc4bcbc9" sys_domain="global" table="x_417837_field_dev_u_alm_asset" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ac0cde61bc60010901efc88cc4bcbd6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbd2</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2c0cde61bc60010901efc88cc4bcbdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">2ec0cde61bc60010901efc88cc4bcbd6</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22c0cde61bc60010901efc88cc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbcc</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6c0cde61bc60010901efc88cc4bcbd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62c0cde61bc60010901efc88cc4bcbe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">a6c0cde61bc60010901efc88cc4bcbdd</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_417837_field_dev_u_alm_asset</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ec0c9e61bc60010901efc88cc4bcbc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_417837_field_dev_u_alm_asset</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6ec0c9e61bc60010901efc88cc4bcbc9</sys_update_name>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>95e933f8db0eb38407072f17d49619f0</instance_id>
+        <instance_name>dev86948</instance_name>
+        <name>sys_ui_form_sections_6ec0c9e61bc60010901efc88cc4bcbc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6ec0c9e61bc60010901efc88cc4bcbc9" sys_domain="global" table="x_417837_field_dev_u_alm_asset" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ac0cde61bc60010901efc88cc4bcbd6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbd2</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2c0cde61bc60010901efc88cc4bcbdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">2ec0cde61bc60010901efc88cc4bcbd6</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22c0cde61bc60010901efc88cc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbcc</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6c0cde61bc60010901efc88cc4bcbd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">aac0cde61bc60010901efc88cc4bcbce</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62c0cde61bc60010901efc88cc4bcbe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_u_alm_asset" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">6ec0c9e61bc60010901efc88cc4bcbc9</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_417837_field_dev_u_alm_asset" sys_domain="global" view="Default view">a6c0cde61bc60010901efc88cc4bcbdd</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_417837_field_dev_u_alm_asset</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2020-01-02 20:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ec0c9e61bc60010901efc88cc4bcbc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_417837_field_dev_u_alm_asset</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6ec0c9e61bc60010901efc88cc4bcbc9</sys_update_name>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2020-01-02 20:11:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>]]></payload>
+        <payload_hash>-1435202926</payload_hash>
+        <record_name>u_alm_asset</record_name>
+        <reverted_from/>
+        <source>e0cd9bbe1b428010901efc88cc4bcb0f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-04 02:16:22</sys_created_on>
+        <sys_id>4fcd9fbe1b428010901efc88cc4bcbe9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f6e56d7b70000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-04 02:16:22</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>cbcd9fbe07428010d778ce65bc9c17e9</update_guid>
+        <update_guid_history>cbcd9fbe07428010d778ce65bc9c17e9:0,c59ddb7ea7428010c60c98e221e7c0bb:-1010449940,584a17f6194280107da1577d24125714:0,522ad7b61d428010eeae49ee924a74eb:-2137196970,2ec0cde695c6001037ddb256f7e87ee1:766444120,6ac0c9e6d3c60010a887e31f33aadecb:1572055818</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2020-01-05 17:31:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>96022e909bd24148b63c4139d4df1684</sys_id>
+        <sys_metadata>6ec0c9e61bc60010901efc88cc4bcbc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_417837_field_dev_u_alm_asset</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent display_value="">33bc386d1b060010901efc88cc4bcb6c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_6ec0c9e61bc60010901efc88cc4bcbc9</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_6ec0c9e61bc60010901efc88cc4bcbc9">4fcd9fbe1b428010901efc88cc4bcbe9</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-01-05 17:31:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

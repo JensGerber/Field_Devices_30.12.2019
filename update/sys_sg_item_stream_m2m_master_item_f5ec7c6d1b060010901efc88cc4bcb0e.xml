@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
     <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
         <item_stream display_value="u_alm_asset Item Stream">31ec7c6d1b060010901efc88cc4bcb0d</item_stream>
-        <master_item display_value="u_alm_asset master_item">fdec7c6d1b060010901efc88cc4bcb0d</master_item>
+        <master_item/>
         <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2019-12-30 17:21:01</sys_created_on>
