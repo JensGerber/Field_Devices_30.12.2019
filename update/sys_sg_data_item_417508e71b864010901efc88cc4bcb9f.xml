@@ -3,9 +3,9 @@
         <condition_type>declarative</condition_type>
         <description/>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>PDI_Assets_SB</name>
-        <query_condition table="u_alm_asset_sb">company={{p_Company}}<item endquery="false" field="company" goto="false" newquery="false" operator="=" or="false" value="{{p_Company}}"/>
-        </query_condition>
+        <query_condition table="u_alm_asset_sb">company={{p_Company}}</query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
         <sys_created_by>Jens.Gerber</sys_created_by>

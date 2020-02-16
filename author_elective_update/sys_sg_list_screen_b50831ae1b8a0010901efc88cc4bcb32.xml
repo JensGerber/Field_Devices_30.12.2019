@@ -35,7 +35,7 @@
         <reverted_from/>
         <source>3d0c3c2d1b060010901efc88cc4bcba6</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2020-01-03 00:13:15</sys_created_on>
         <sys_id>3108f1ee1b8a0010901efc88cc4bcb66</sys_id>

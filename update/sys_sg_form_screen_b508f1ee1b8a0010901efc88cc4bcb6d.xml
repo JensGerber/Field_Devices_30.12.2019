@@ -6,6 +6,7 @@
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="Field Devices Icon">b108f1ee1b8a0010901efc88cc4bcb69</icon>
         <item_view display_value="Field Devices Header Item View">3508f1ee1b8a0010901efc88cc4bcb6b</item_view>
         <name>Field Devices</name>

@@ -40,7 +40,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>WebConfiguration_64x.png</file_name>
         <hash>dce1b671a6df94c8fae85ca5f25e0081036746d4a8fca591c3888ed14ba09b69</hash>
         <image_height/>

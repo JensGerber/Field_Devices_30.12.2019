@@ -3,6 +3,7 @@
         <condition_type>declarative</condition_type>
         <description/>
         <group_by/>
+        <instance_relative_url_qc/>
         <name>PDI_FL</name>
         <query_condition table="core_company">city={{p_City}}<item endquery="false" field="city" goto="false" newquery="false" operator="=" or="false" value="{{p_City}}"/>
         </query_condition>

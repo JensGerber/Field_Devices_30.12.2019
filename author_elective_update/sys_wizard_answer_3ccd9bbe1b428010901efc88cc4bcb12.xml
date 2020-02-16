@@ -42,13 +42,13 @@
         <source>958864211b020010901efc88cc4bcb46</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2019-12-30 15:51:57</sys_created_on>
         <sys_id>5ec87f5b1b464010901efc88cc4bcbf9</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>16f5781b9480000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2020-02-16 21:28:10</sys_updated_on>
         <type>Answer</type>
         <update_guid>1ec87f5b204640107eefcc68be5360f9</update_guid>
         <update_guid_history>1ec87f5b204640107eefcc68be5360f9:1097833372</update_guid_history>

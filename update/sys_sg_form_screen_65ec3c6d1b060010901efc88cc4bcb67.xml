@@ -6,6 +6,7 @@
         <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
         <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Life-Saver">e1ecf8291b060010901efc88cc4bcbdf</icon>
         <item_view display_value="Company Detail Screen Item View">2dec3c6d1b060010901efc88cc4bcb65</item_view>
         <name>Country</name>

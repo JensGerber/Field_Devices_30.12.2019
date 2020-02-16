@@ -60,7 +60,7 @@
         <update_guid_history>99cddbbe9a4280101f462fd834fcc33a:0,189d9b7e4742801073f69d083b318076:1799425162,fa3a13f6ca428010e1c51c849632c651:0,e52a97b6054280107048cd55a675adec:-2039766236,e0cc786dcf060010c0e937f645464d2c:742697692</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_417837_field_dev_u_alm_asset.user">45c8fb5b1b464010901efc88cc4bcba0</sys_audit_delete>
+        <sys_audit_delete display_value="">45c8fb5b1b464010901efc88cc4bcba0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2020-01-05 17:31:10</sys_created_on>
