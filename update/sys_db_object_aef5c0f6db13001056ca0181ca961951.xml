@@ -18,19 +18,19 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Import Set Row" name="sys_import_set_row">8ea6d085db030010e37c7b3868961982</super_class>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">4845d1a6db13001056ca0181ca961973</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2020-02-16 22:35:37</sys_created_on>
-        <sys_id>963111c1db4b0010e37c7b3868961970</sys_id>
+        <sys_id>aef5c0f6db13001056ca0181ca961951</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Imp Tmpl Core Company</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
-        <sys_update_name>sys_db_object_963111c1db4b0010e37c7b3868961970</sys_update_name>
+        <sys_update_name>sys_db_object_aef5c0f6db13001056ca0181ca961951</sys_update_name>
         <sys_updated_by>Jens.Gerber</sys_updated_by>
         <sys_updated_on>2020-02-16 22:35:37</sys_updated_on>
         <update_access>false</update_access>

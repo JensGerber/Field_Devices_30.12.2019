@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2020-02-16 22:42:48</last_registered_on>
+        <last_registered_on>2020-03-05 14:02:38</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2020-02-16 21:42:14</sys_created_on>
         <sys_id>14054589db0b0010e37c7b3868961984</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>ecd29DFlpKI:APA91bGfD7fKbeuPskXA8nnzmB2rFQ6NyuqOqVYna0MQnHSy_We-PJmRIrdQqMs2E33DJfqyzviVv0v8tMj8pDTG7AuyShGBphBVepD9N-EPnikTh1jvnFUL7DzyOOZvIaVQK3Fwg7YZ</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
@@ -14,9 +14,9 @@
         <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
         <sys_update_name>sys_push_notif_app_install_14054589db0b0010e37c7b3868961984</sys_update_name>
-        <sys_updated_by>Jens.Gerber</sys_updated_by>
-        <sys_updated_on>2020-02-16 22:42:48</sys_updated_on>
-        <sys_user_id display_value="Jens Gerber">215830c1db0b0010e37c7b386896191c</sys_user_id>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-05 14:02:38</sys_updated_on>
+        <sys_user_id display_value="Jens Gerber">2164cc76db13001056ca0181ca961962</sys_user_id>
         <token>ecd29DFlpKI:APA91bGfD7fKbeuPskXA8nnzmB2rFQ6NyuqOqVYna0MQnHSy_We-PJmRIrdQqMs2E33DJfqyzviVv0v8tMj8pDTG7AuyShGBphBVepD9N-EPnikTh1jvnFUL7DzyOOZvIaVQK3Fwg7YZ</token>
     </sys_push_notif_app_install>
 </record_update>

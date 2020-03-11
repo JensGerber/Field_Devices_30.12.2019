@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_417837_field_dev.u_alm_assets_sb_user" name="x_417837_field_dev.u_alm_assets_sb_user">fef4086bdb13001056ca0181ca9619b2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-07 21:43:01</sys_created_on>
+        <sys_id>faf4c06fdb13001056ca0181ca961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fef4086bdb13001056ca0181ca9619b2</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_faf4c06fdb13001056ca0181ca961935</sys_update_name>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-07 21:43:01</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
