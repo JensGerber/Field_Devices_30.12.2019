@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="DELETE">
+        <button display_value="jump to Asset">436a72d1db63401056ca0181ca96196d</button>
+        <button_table>x_417837_field_dev_alm_assets_sb</button_table>
+        <constant_value>075684badb13001056ca0181ca961941</constant_value>
+        <destination_ui_parameter display_value="UI_Company">e225d42b1bc64010901efc88cc4bcb1b</destination_ui_parameter>
+        <source_field>company</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-13 21:25:06</sys_created_on>
+        <sys_id>8b6a72d1db63401056ca0181ca961970</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>e225d42b1bc64010901efc88cc4bcb1b</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_8b6a72d1db63401056ca0181ca961970</sys_update_name>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-13 21:54:44</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>aa5dc1fbdb7797041ddcf22ebf961917</instance_id>
+        <instance_name>dev70515</instance_name>
+        <name>sys_sg_redirect_dest_field_8b6a72d1db63401056ca0181ca961970</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field"><sys_sg_redirect_dest_field action="INSERT_OR_UPDATE"><button display_value="jump to Asset">436a72d1db63401056ca0181ca96196d</button><button_table>x_417837_field_dev_alm_assets_sb</button_table><constant_value>075684badb13001056ca0181ca961941</constant_value><destination_ui_parameter display_value="UI_Company">e225d42b1bc64010901efc88cc4bcb1b</destination_ui_parameter><source_field>company</source_field><source_ui_parameter/><sys_class_name>sys_sg_redirect_dest_field</sys_class_name><sys_created_by>jens.gerber</sys_created_by><sys_created_on>2020-03-13 21:25:06</sys_created_on><sys_id>8b6a72d1db63401056ca0181ca961970</sys_id><sys_mod_count>2</sys_mod_count><sys_name>e225d42b1bc64010901efc88cc4bcb1b</sys_name><sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package><sys_policy/><sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope><sys_update_name>sys_sg_redirect_dest_field_8b6a72d1db63401056ca0181ca961970</sys_update_name><sys_updated_by>jens.gerber</sys_updated_by><sys_updated_on>2020-03-13 21:54:44</sys_updated_on><type>field</type></sys_sg_redirect_dest_field></record_update>]]></payload>
+        <payload_hash>-1610595583</payload_hash>
+        <record_name>e225d42b1bc64010901efc88cc4bcb1b</record_name>
+        <reverted_from/>
+        <source>15dcffd7db13001056ca0181ca9619a6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-13 21:54:44</sys_created_on>
+        <sys_id>8d3147d5db63401056ca0181ca961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170d5e477b90000001</sys_recorded_at>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-13 21:54:44</sys_updated_on>
+        <type>Redirection destination fields</type>
+        <update_guid>c53147d5d36340109016bb8c34870d71</update_guid>
+        <update_guid_history>c53147d5d36340109016bb8c34870d71:-1610595583,d23dbe159163401057f608b2807785f6:-623863116,c76a72d1c86340100f02466b40593172:-12525551</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-13 22:03:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_redirect_dest_field">sys_sg_redirect_dest_field</sys_db_object>
+        <sys_id>359645b852a2447d8cb1b4632ee876e1</sys_id>
+        <sys_metadata>8b6a72d1db63401056ca0181ca961970</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e225d42b1bc64010901efc88cc4bcb1b</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_sg_redirect_dest_field_8b6a72d1db63401056ca0181ca961970</sys_update_name>
+        <sys_update_version display_value="sys_sg_redirect_dest_field_8b6a72d1db63401056ca0181ca961970">8d3147d5db63401056ca0181ca961971</sys_update_version>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-13 22:03:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

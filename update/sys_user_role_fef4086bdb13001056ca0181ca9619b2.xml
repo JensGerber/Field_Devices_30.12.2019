@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_417837_field_dev.u_alm_assets_sb_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>u_alm_assets_sb_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-07 21:43:01</sys_created_on>
+        <sys_id>fef4086bdb13001056ca0181ca9619b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_417837_field_dev.u_alm_assets_sb_user</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_user_role_fef4086bdb13001056ca0181ca9619b2</sys_update_name>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-07 21:43:01</sys_updated_on>
+    </sys_user_role>
+</record_update>

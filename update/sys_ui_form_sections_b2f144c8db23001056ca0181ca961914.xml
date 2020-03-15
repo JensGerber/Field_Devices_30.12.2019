@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b2f144c8db23001056ca0181ca961914" sys_domain="global" table="x_417837_field_dev_alm_assets_sb" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jens.gerber</sys_created_by>
+            <sys_created_on>2020-03-09 10:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72f144c8db23001056ca0181ca961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_alm_assets_sb" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">b2f144c8db23001056ca0181ca961914</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">36f144c8db23001056ca0181ca961921</sys_ui_section>
+            <sys_updated_by>jens.gerber</sys_updated_by>
+            <sys_updated_on>2020-03-09 10:46:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jens.gerber</sys_created_by>
+            <sys_created_on>2020-03-09 10:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>baf144c8db23001056ca0181ca96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_alm_assets_sb" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">b2f144c8db23001056ca0181ca961914</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">76f144c8db23001056ca0181ca961925</sys_ui_section>
+            <sys_updated_by>jens.gerber</sys_updated_by>
+            <sys_updated_on>2020-03-09 10:46:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>jens.gerber</sys_created_by>
+            <sys_created_on>2020-03-09 10:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>faf144c8db23001056ca0181ca96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_alm_assets_sb" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">b2f144c8db23001056ca0181ca961914</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">f6f144c8db23001056ca0181ca961917</sys_ui_section>
+            <sys_updated_by>jens.gerber</sys_updated_by>
+            <sys_updated_on>2020-03-09 10:46:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>jens.gerber</sys_created_by>
+            <sys_created_on>2020-03-09 10:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32f144c8db23001056ca0181ca961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_alm_assets_sb" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">b2f144c8db23001056ca0181ca961914</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">76f144c8db23001056ca0181ca96191d</sys_ui_section>
+            <sys_updated_by>jens.gerber</sys_updated_by>
+            <sys_updated_on>2020-03-09 10:46:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>jens.gerber</sys_created_by>
+            <sys_created_on>2020-03-09 10:46:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3af144c8db23001056ca0181ca96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_417837_field_dev_alm_assets_sb" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">b2f144c8db23001056ca0181ca961914</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_417837_field_dev_alm_assets_sb" sys_domain="global" view="Default view">bef144c8db23001056ca0181ca96192b</sys_ui_section>
+            <sys_updated_by>jens.gerber</sys_updated_by>
+            <sys_updated_on>2020-03-09 10:46:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_417837_field_dev_alm_assets_sb</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jens.gerber</sys_created_by>
+            <sys_created_on>2020-03-09 10:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2f144c8db23001056ca0181ca961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_417837_field_dev_alm_assets_sb</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b2f144c8db23001056ca0181ca961914</sys_update_name>
+            <sys_updated_by>jens.gerber</sys_updated_by>
+            <sys_updated_on>2020-03-09 10:46:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
