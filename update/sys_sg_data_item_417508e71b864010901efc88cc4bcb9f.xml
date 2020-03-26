@@ -14,13 +14,15 @@
 	//if(input.UI_Company) {
 	//queryString += "company=" & UI_Company;
 
+// wäre der richtige Weg, aber wenn in der Navigation der UICompany Value ausgewählt wird
+// verschwindet das Top Menu in der App Func. Location
 	queryString += "company="+input.p_Company;
 
 	//  return queryString; 
 	//}
 	
 	// das geht !!! 
-	//queryString += "company=075684badb13001056ca0181ca961941";
+	queryString += "company=075684badb13001056ca0181ca961941";
        
 	return queryString; 
 	 
@@ -29,14 +31,14 @@
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2020-01-05 18:26:36</sys_created_on>
         <sys_id>417508e71b864010901efc88cc4bcb9f</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>29</sys_mod_count>
         <sys_name>PDI_Assets_SB</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
         <sys_update_name>sys_sg_data_item_417508e71b864010901efc88cc4bcb9f</sys_update_name>
         <sys_updated_by>jens.gerber</sys_updated_by>
-        <sys_updated_on>2020-03-19 22:59:58</sys_updated_on>
+        <sys_updated_on>2020-03-26 19:29:58</sys_updated_on>
         <table>x_417837_field_dev_alm_assets_sb</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=417508e71b864010901efc88cc4bcb9f"/>

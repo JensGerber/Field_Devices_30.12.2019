@@ -13,7 +13,7 @@
         <context>record</context>
         <description/>
         <destination_alp/>
-        <destination_screen display_value="My Tasks">472ceb7253b0330097a2ddeeff7b12f6</destination_screen>
+        <destination_screen display_value="Field Devices">162ac42f1b864010901efc88cc4bcb12</destination_screen>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
         <failure_message/>
@@ -27,7 +27,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Test</name>
+        <name>SB Field Devices</name>
         <offline>false</offline>
         <offline_template_field/>
         <offline_template_field_table/>
@@ -50,15 +50,15 @@
         <sys_created_by>jens.gerber</sys_created_by>
         <sys_created_on>2020-03-19 22:33:51</sys_created_on>
         <sys_id>28b38adfdbeb001056ca0181ca96195a</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Test</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>SB Field Devices</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
         <sys_update_name>sys_sg_button_28b38adfdbeb001056ca0181ca96195a</sys_update_name>
         <sys_updated_by>jens.gerber</sys_updated_by>
-        <sys_updated_on>2020-03-19 23:08:00</sys_updated_on>
-        <table>incident</table>
+        <sys_updated_on>2020-03-26 19:11:31</sys_updated_on>
+        <table>x_417837_field_dev_alm_assets_sb</table>
         <take_value_from_field>true</take_value_from_field>
         <type>redirection</type>
         <use_overlay>false</use_overlay>

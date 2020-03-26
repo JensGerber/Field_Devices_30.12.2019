@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="SB Field Devices">28b38adfdbeb001056ca0181ca96195a</button>
+        <button_table>x_417837_field_dev_alm_assets_sb</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="Test_Company">3e5c4f5ddb63401056ca0181ca9619cd</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-26 19:11:31</sys_created_on>
+        <sys_id>c18895eddb37001056ca0181ca9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3e5c4f5ddb63401056ca0181ca9619cd</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_c18895eddb37001056ca0181ca9619a9</sys_update_name>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-26 19:11:31</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

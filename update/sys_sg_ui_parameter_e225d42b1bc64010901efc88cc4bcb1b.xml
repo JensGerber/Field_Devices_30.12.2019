@@ -15,7 +15,7 @@
         <multi_entry>false</multi_entry>
         <multi_select>false</multi_select>
         <name>UI_Company</name>
-        <order>10</order>
+        <order>20</order>
         <parameter_type>screen</parameter_type>
         <placeholder/>
         <screen display_value="Field Devices">162ac42f1b864010901efc88cc4bcb12</screen>
@@ -25,14 +25,14 @@
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2020-01-05 19:35:14</sys_created_on>
         <sys_id>e225d42b1bc64010901efc88cc4bcb1b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>UI_Company</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
         <sys_update_name>sys_sg_ui_parameter_e225d42b1bc64010901efc88cc4bcb1b</sys_update_name>
-        <sys_updated_by>Jens.Gerber</sys_updated_by>
-        <sys_updated_on>2020-01-05 19:35:33</sys_updated_on>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-26 18:59:50</sys_updated_on>
         <table_name/>
     </sys_sg_ui_parameter>
     <sys_translated_text action="delete_multiple" query="documentkey=e225d42b1bc64010901efc88cc4bcb1b"/>
