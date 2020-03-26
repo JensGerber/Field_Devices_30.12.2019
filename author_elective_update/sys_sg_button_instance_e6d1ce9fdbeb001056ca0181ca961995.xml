@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Navigate to Group Member Location">3975dd57737623008c5127cb1bf6a7e9</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Test</label>
+        <location>top</location>
+        <name>Test</name>
+        <order>10</order>
+        <parent>a1fe59a11bc60010901efc88cc4bcbd6</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-19 22:25:48</sys_created_on>
+        <sys_id>e6d1ce9fdbeb001056ca0181ca961995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e6d1ce9fdbeb001056ca0181ca961995</sys_update_name>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-19 22:25:48</sys_updated_on>
+        <table>core_company</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=e6d1ce9fdbeb001056ca0181ca961995"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</application>
+        <file_path/>
+        <instance_id>aa5dc1fbdb7797041ddcf22ebf961917</instance_id>
+        <instance_name>dev70515</instance_name>
+        <name>sys_sg_button_instance_e6d1ce9fdbeb001056ca0181ca961995</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Navigate to Group Member Location">3975dd57737623008c5127cb1bf6a7e9</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Test</label><location>top</location><name>Test</name><order>10</order><parent>a1fe59a11bc60010901efc88cc4bcbd6</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>jens.gerber</sys_created_by><sys_created_on>2020-03-19 22:25:48</sys_created_on><sys_id>e6d1ce9fdbeb001056ca0181ca961995</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package><sys_policy/><sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope><sys_update_name>sys_sg_button_instance_e6d1ce9fdbeb001056ca0181ca961995</sys_update_name><sys_updated_by>jens.gerber</sys_updated_by><sys_updated_on>2020-03-19 22:25:48</sys_updated_on><table>core_company</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=e6d1ce9fdbeb001056ca0181ca961995"/></record_update>]]></payload>
+        <payload_hash>-619841234</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>41bb3d9bdbeb001056ca0181ca9619ef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-19 22:25:48</sys_created_on>
+        <sys_id>e6d14edfdbeb001056ca0181ca961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f4e70e850000001</sys_recorded_at>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-19 22:25:48</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>26d1ce9ff7eb001093874c935be7d997</update_guid>
+        <update_guid_history>26d1ce9ff7eb001093874c935be7d997:-619841234</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jens.gerber</sys_created_by>
+        <sys_created_on>2020-03-19 22:27:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>2ab62242946741ce92ae78b0d6d14964</sys_id>
+        <sys_metadata>e6d1ce9fdbeb001056ca0181ca961995</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_417837_field_dev">650c3c2d1b060010901efc88cc4bcba4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">650c3c2d1b060010901efc88cc4bcba4</sys_scope>
+        <sys_scope_delete display_value="">41add07c431a454390d82671ce120b11</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_e6d1ce9fdbeb001056ca0181ca961995</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_e6d1ce9fdbeb001056ca0181ca961995">e6d14edfdbeb001056ca0181ca961900</sys_update_version>
+        <sys_updated_by>jens.gerber</sys_updated_by>
+        <sys_updated_on>2020-03-19 22:27:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

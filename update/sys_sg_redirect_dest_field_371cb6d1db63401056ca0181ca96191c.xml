@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
     <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
-        <button display_value="jump to Asset">ff1cb6d1db63401056ca0181ca961918</button>
+        <button display_value="">ff1cb6d1db63401056ca0181ca961918</button>
         <button_table>x_417837_field_dev_alm_assets_sb</button_table>
         <constant_value/>
         <destination_ui_parameter display_value="UI_Company">e225d42b1bc64010901efc88cc4bcb1b</destination_ui_parameter>
